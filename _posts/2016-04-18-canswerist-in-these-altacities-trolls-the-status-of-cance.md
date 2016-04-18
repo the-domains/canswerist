@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "#Canswerist in these #ALTACITIES trolls the status of 'CANCER SURVIVAL' efforts from some of the most amazing and promising frontiers from the battleground of real cancer snipers."
-datePublished: '2016-04-18T16:31:22.446Z'
-dateModified: '2016-04-18T16:31:15.075Z'
+datePublished: '2016-04-18T16:32:04.618Z'
+dateModified: '2016-04-18T16:32:03.343Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-canswerist-in-these-altacities-trolls-the-status-of-cance.md
