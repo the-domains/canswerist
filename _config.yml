@@ -1,0 +1,28 @@
+name: canswerist
+favicon: null
+layout_spectrum: 0.9245225104968995
+typography_spectrum: 0.2284382584039122
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7403788364026695
+  lightness: 0.9646708115469664
+  saturation: 0.03510914999060333
+  rhythmicContrast: 0.032126693753525615
+purpose: []
